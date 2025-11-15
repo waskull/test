@@ -1,2 +1,1 @@
-def function():
-    print("xd")
+PROGRAMA BORRADO
