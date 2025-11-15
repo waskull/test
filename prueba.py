@@ -18,3 +18,4 @@ class Auto:
 auto = Auto("5345-4334","Bettle","Blanco",True)
 auto.mostrar_datos()
 auto.mostrar_datos(True)
+asd
