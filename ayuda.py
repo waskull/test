@@ -1,5 +1,5 @@
 print("gfsd")
 
-class Ayuda:
+class Pepito:
     def __init__(self):
-        print("ayudaaaaaaaaaaaaaaaa")
+        print("pepito")
