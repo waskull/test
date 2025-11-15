@@ -3,3 +3,4 @@ class Pepito:
 		self.nombre = pepito
 		print(self.nombre)
 pepito = Pepito()
+pepito3 = Pepito()
