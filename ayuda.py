@@ -1,1 +1,2 @@
-print("zxc")
+def function():
+    print("xd")
