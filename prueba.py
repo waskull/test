@@ -6,8 +6,8 @@ class Auto:
 		self.radio = radio
 	def mostrar_datos(self):
 		print(f"El modelo del auto es {modelo}, su placa es {placa} y su color es: {color}")
-		if radio: print("Tiene Radio")
-		else: print("No Tiene Radio")
+		if radio: print("Tiene Radio 4K")
+		else: print("No Tiene Radio 4K")
 
 auto = Auto("5345-4324","Escarabajo","Blanco",True)
 auto.mostrar_datos()
