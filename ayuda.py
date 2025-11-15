@@ -1,17 +1,5 @@
-PROGRAMA BORRADO
-
-
-
-
-
-
-
-
-
+print("ayudaaaaaaaaaaaaaaaa")
 
 class Ayuda:
     def __init__(self):
-        pass
-
-    def ayuda(self):
-        pass
+        print("ayudaaaaaaaaaaaaaaaa")
