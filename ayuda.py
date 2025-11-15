@@ -1,4 +1,4 @@
-print("ayudaaaaaaaaaaaaaaaa")
+print("gfsd")
 
 class Ayuda:
     def __init__(self):
