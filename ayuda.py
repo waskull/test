@@ -1,7 +1,5 @@
-fgsdfgsdfgdfsgfdgdfgprint("ayudaaaaaaaaaaaaaaaa")
+print("ayudaaadaaaaaaaaaaaaa")
 
 class Pepito:
     def __init__(self):
         print("pepito")
-sdfgsdfgsdf
-bvbxcb
